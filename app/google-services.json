@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807703666271",
+    "project_id": "book-tips",
+    "storage_bucket": "book-tips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807703666271:android:dd3154f52838e7e75fc5ea",
+        "android_client_info": {
+          "package_name": "com.example.booktips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807703666271-j4bmht1alhk9t22g32b1s13i1j2qg7jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT_YU6hr2L3crUDie3ft5HanUNWpHfsys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807703666271-j4bmht1alhk9t22g32b1s13i1j2qg7jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
