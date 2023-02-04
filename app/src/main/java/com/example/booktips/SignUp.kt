@@ -43,7 +43,9 @@ class SignUp : AppCompatActivity() {
                     val intent = Intent(this@SignUp, MainActivity::class.java)
                     startActivity(intent)
                 } else {
-                    Toast.makeText(this@SignUp, "Some error occured", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(this@SignUp, "Some error occurred", Toast.LENGTH_SHORT).show()
+                    val intent = Intent(this@SignUp, MainActivity::class.java)
+                    startActivity(intent)
                 }
             }
     }
